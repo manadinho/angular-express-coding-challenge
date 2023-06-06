@@ -1,0 +1,5 @@
+/api/node_modules
+/web/node_modules
+/web/.angular
+/web/cypress/videos
+node_modules
